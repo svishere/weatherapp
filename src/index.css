@@ -5,9 +5,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('thunderstorm-3625405__480.jpg') ;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.css{
+  position: relative;
+  top: 200px;
+  color: aliceblue;
+  font-size: x-large;
+}
+
+.input{
+  background-color: aliceblue;
+  font-size: x-large;
+}
+.button{
+  background-color: greenyellow;
+  font-size: x-large;
 }
